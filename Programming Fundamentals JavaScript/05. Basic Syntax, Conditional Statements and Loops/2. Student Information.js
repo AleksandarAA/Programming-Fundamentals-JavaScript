@@ -1,0 +1,4 @@
+function studentInformation(params) {
+    
+}
+studentInformation()
