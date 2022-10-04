@@ -1,0 +1,4 @@
+function maxSequenceOfEqualElements(params) {
+    
+}
+maxSequenceOfEqualElements()

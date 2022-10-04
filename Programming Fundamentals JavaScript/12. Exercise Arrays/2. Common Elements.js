@@ -1,0 +1,4 @@
+function commonElements(params) {
+    
+}
+commonElements()
