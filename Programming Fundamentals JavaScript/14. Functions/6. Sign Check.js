@@ -1,0 +1,4 @@
+function signCheck(params) {
+    
+}
+signCheck()

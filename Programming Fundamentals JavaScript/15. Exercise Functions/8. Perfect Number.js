@@ -1,0 +1,4 @@
+function perfectNumber(params) {
+    
+}
+perfectNumber()
